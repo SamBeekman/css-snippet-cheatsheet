@@ -16,5 +16,4 @@ N/A
 
 ## Usage
 
-To use this webpage you can click on the links in the nav bar to take you directly to the corresponding section
-
+To use this webpage you can hover over the cards to make them glow or click on the code text to highlight it for copying to clipboard.
